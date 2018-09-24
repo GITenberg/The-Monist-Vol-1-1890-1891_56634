@@ -1,5 +1,8 @@
 _repo: The-Monist-Vol-1-1890-1891_56634
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Various
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25540
     wikipedia: http://en.wikipedia.org/wiki/Paul_Carus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56634#The-Monist-Vol-1-1890-1891
 gutenberg_issued: '2018-02-24'
 gutenberg_type: Text
 identifiers:
